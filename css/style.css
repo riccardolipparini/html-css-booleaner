@@ -1,3 +1,38 @@
-div {
-    background-image: url(/img/pattern.png);
+#background {
+    background-image: url(../img/pattern.png);
+    width: 150%;
+    height: 60px;
+    background-color: rgb(48, 87, 158);
+    
+}
+
+#logo {
+    width: 100px;
+    margin-top: 35px;
+}
+
+.info {
+    font-size: smaller;
+    color: grey;
+}
+
+strong {
+    color: aqua;
+}
+
+.description{
+    font-size: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+    
+.principale{
+    font-size: 15px;
+}
+ul{
+    font-size: 15px;
+}
+
+.table{
+    margin-top: 50px;
 }
