@@ -33,6 +33,21 @@ ul{
     font-size: 15px;
 }
 
-.table{
-    margin-top: 50px;
+.container1{
+    background-color: blue;
+}
+
+.container2{
+    background-color: aqua;
+}
+
+.container3{
+    background-color: grey;
+    
+}
+    
+
+.elementitabella {
+    display: inline-block;
+    margin-left: 100px
 }
